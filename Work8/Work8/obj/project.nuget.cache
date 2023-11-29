@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMA4Pa48d74KhrhadEH8wRFwlYHEt3OGal6fkeV/wR7n7RS+tkIfE/llEn2/xCr++8O8jq/+sF86bH0ojTSoAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Рустам\\source\\repos\\Work8\\Work8\\Work8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Рустам\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

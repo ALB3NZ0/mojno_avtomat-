@@ -1,0 +1,17 @@
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.AssemblyInfoInputs.cache
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.AssemblyInfo.cs
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.csproj.CoreCompileInputs.cache
+C:\Users\Рустам\source\repos\Work8\Work8\bin\Debug\net6.0\Work8.exe
+C:\Users\Рустам\source\repos\Work8\Work8\bin\Debug\net6.0\Work8.deps.json
+C:\Users\Рустам\source\repos\Work8\Work8\bin\Debug\net6.0\Work8.runtimeconfig.json
+C:\Users\Рустам\source\repos\Work8\Work8\bin\Debug\net6.0\Work8.dll
+C:\Users\Рустам\source\repos\Work8\Work8\bin\Debug\net6.0\Work8.pdb
+C:\Users\Рустам\source\repos\Work8\Work8\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.csproj.AssemblyReference.cache
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.csproj.CopyComplete
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.dll
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\refint\Work8.dll
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.pdb
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\Work8.genruntimeconfig.cache
+C:\Users\Рустам\source\repos\Work8\Work8\obj\Debug\net6.0\ref\Work8.dll
